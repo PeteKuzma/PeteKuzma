@@ -1,4 +1,4 @@
-## Hi there 👋
+## G'day
 
 <!--
 **PeteKuzma/PeteKuzma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Researcher at the National Astronomical Observatory of Japan, but just another lover of numbers and working with data. I use code at work and in play! After acknowledging my Academic nature of hoarding code, I'm finally uploading the work I've done. Watch this space (no pun intended).
+
+## 🌐 My Website
+Check out my personal site: [petekuzma.github.io](https://petekuzma.github.io)
