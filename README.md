@@ -1,4 +1,4 @@
-## G'day
+##  👋 G'day
 
 <!--
 **PeteKuzma/PeteKuzma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Astronomer 🔭 and Data Scientist 🧮 at the National Astronomical Observatory
 📈 **Data Visualization:** Well-versed in visualising data. breaking down the complexity of data to an easy-to-understand story, suitable for experts and novices.\
 📝 **Publishing Data:** Published many [articles](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Kuzma%2C%20P.%20B.%22&sort=date%20desc%2C%20bibcode%20desc) in peer-reviewed journals.\
 
-## Contact Me
+## :mailbox: Contact Me
 **Personal Webpage:** [petekuzma.github.io](https://petekuzma.github.io)
 **LinkedIn:** [PeteKuzma](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/petekuzma/)\
 
