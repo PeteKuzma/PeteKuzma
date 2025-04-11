@@ -18,7 +18,7 @@ Astronomer 🔭 and Data Scientist 🧮 at the National Astronomical Observatory
 
 
 ## ✔️ Key Skills
-📋 **Data Science:** Accomplished in data science and statistical methods such as Bayesian Inference, multivariate regression and machine learning to extract insights and make data-driven decisions
+📋 **Data Science:** Accomplished in data science and statistical methods such as Bayesian Inference, multivariate regression and machine learning to extract insights and make data-driven decisions.\
 📣 **Scientific Communication:** An experienced science communicator, with presentations ranging from Academic Colloquia and [scientific outreach](https://www.youtube.com/watch?v=61-Mfi484fQ) to "Physics in the Pub", "Nerd Nite" and "Astronomy on Tap".\
 🐍 **Programming Languages:** Proficient in Python, experience in SQL and R for data manipulation and analysis.\
 📈 **Data Visualization:** Well-versed in visualising data. breaking down the complexity of data to an easy-to-understand story, suitable for experts and novices.\
