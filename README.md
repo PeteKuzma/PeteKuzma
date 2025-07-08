@@ -26,7 +26,7 @@ Astronomer 🔭 and Data Scientist 🧮 at the National Astronomical Observatory
 
 ## :mailbox: Contact Me
 **Personal Webpage:** [petekuzma.github.io](https://petekuzma.github.io)\
-**LinkedIn:** [PeteKuzma](https://www.linkedin.com/in/petekuzma/)
+**LinkedIn:** [PeteKuzma](https://www.linkedin.com/in/pete-kuzma/)
 
 
 
